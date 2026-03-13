@@ -1,5 +1,12 @@
 # @googleworkspace/cli
 
+## 0.13.3
+
+### Patch Changes
+
+- 4b827cd: chore: fix maintainer email typo in flake.nix and harden coverage.sh
+- 8fce003: fix(docs): correct flag names in recipes (--spreadsheet-id, --attendees, --duration)
+
 ## 0.13.2
 
 ### Patch Changes
